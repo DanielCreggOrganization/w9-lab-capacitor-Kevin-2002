@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@capacitor/camera": "^6.1.2",
+    "@capacitor/device": "^6.0.2",
+    "@capacitor/geolocation": "^6.1.0",
+    "@ionic/pwa-elements": "^3.3.0"
+  }
+}
